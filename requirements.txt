@@ -1,0 +1,6 @@
+anthropic
+pandas
+pyarrow
+pydantic
+python-dotenv
+pytest
